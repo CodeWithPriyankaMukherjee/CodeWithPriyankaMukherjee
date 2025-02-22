@@ -39,7 +39,7 @@ While I’m just starting my GitHub journey, I’m committed to building and con
 
 <div align="left">
   <a href="https://youtu.be/xvFZjo5PgG0?feature=shared"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
- <a href="www.linkedin.com/in/priyanka-mukherjee-connect"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+ <a href="https://www.linkedin.com/in/priyanka-mukherjee-connect/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
 </div>
