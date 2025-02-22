@@ -48,6 +48,6 @@ While I’m just starting my GitHub journey, I’m committed to building and con
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CodeWithPriyankaMukherjee/CodeWithPriyankaMukherjee/output/snake.svg" alt="Snake animation" />
+
 
 ###
