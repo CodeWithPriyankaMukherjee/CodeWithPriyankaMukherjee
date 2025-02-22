@@ -1,5 +1,5 @@
-## Hi there! 👋  
-### I'm Priyanka Mukherjee, a Full-Stack Developer in the Making! 🚀  
+## Good timezone y'all! 👋  
+### I'm Priyanka Mukherjee, a Full-Stack Developer in Making! 🚀  
 
 I'm currently diving into **HTML, CSS, JavaScript, React**, and programming in **C, C++, and Python**.Stay tuned for some exciting projects! <3
 
