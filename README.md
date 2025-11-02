@@ -1,3 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header" alt="header"/>
+
+<div align="center">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hi%2C+it's+Priyanka+Mukherjee;Indie+Developer+Designer" alt="developer"/>
+</a>
+
+</a>
+</div>
 <h2 align="left">Heya coders & lurkers!^•⩊•^</h2>
 <img align='right' src='https://i.pinimg.com/originals/33/8d/8f/338d8fe0017f3a778be35b343b74b568.gif' width='136'>
 <hr>
@@ -51,3 +60,6 @@ While I’m just starting my GitHub journey, I’m committed to building and con
 
 
 ###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer" alt="footer"/>
+
