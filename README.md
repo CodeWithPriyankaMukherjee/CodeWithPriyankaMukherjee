@@ -1,20 +1,28 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header" alt="header"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg">
+ <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hi%2C+it's+Priyanka+Mukherjee;Indie+Developer+and+Designer" alt="developer"/>
-</a>
-
-</a>
+ </a>
 </div>
-<h2 align="left">Heya coders & lurkers!^•⩊•^</h2>
-<img align='right' src='https://i.pinimg.com/originals/33/8d/8f/338d8fe0017f3a778be35b343b74b568.gif' width='136'>
-<hr>
-<h4>Hi,you can call me Priyanka!I'm a Full-Stack Developer in the Making!
-<br>Currently honing my skills in HTML, CSS, JavaScript, React, C, C++, and Python.</br>
-While I’m just starting my GitHub journey, I’m committed to building and contributing to projects regularly.
-<br>Excited to learn, grow, and create amazing things! 🚀<br>
-</h4>
+
+<div align="center">
+    <img src="./assets/aboutme.gif" alt="About Me Terminal GIF"/>
+</div>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Tech+stack+and+UpNext" alt="techstack"/>
+     </a>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java,react,nodejs,nextjs,express,bootstrap,mysql,mongodb,php,github,git,discord,bots,figma,linux,vscode" /> 
+  </a>
+</p>
+
+
 <div align="center">
   <hr>
   <img src="https://github-readme-stats.vercel.app/api?username=CodeWithPriyankaMukherjee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  />
