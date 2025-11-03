@@ -28,7 +28,7 @@
 </picture>
 
 
-### Let's connect!
+### Thanks for visiting,let's connect! 
 <div>
   <a href="https://www.linkedin.com/in/priyanka-mukherjee-connect/">
         <img src="./assets/icon.jpg" alt="LinkedIn" width="39" height="39"/>
