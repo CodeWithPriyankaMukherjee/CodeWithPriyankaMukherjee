@@ -27,15 +27,17 @@
   <img alt="Priyanka Mukherjee's GitHub Profile README" src="https://raw.githubusercontent.com/CodeWithPriyankaMukherjee/CodeWithPriyankaMukherjee/main/light_mode.svg">
 </picture>
 
-### Connect with me!
+
+### Let's connect!
 <div>
-    <a href="https://www.linkedin.com/in/priyanka-mukherjee-connect/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+  <a href="https://www.linkedin.com/in/priyanka-mukherjee-connect/">
+        <img src="./assets/icon.jpg" alt="LinkedIn" width="39" height="39"/>
     </a>
     <a href="https://x.com/OGPriyanka">
-        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Twitter" width="37" height="37"/>
+        <img src="./assets/twitter.jpg" alt="Twitter" width="35" height="35"/>
     </a>
 </div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer" alt="footer"/>
 
