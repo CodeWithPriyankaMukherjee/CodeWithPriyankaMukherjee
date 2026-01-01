@@ -69,7 +69,13 @@
     <tspan fill="#616e7f"> ........... </tspan>
     <tspan fill="#dde4eb">English, Bengali, Hindi</tspan>
 
-    <!-- Contact -->
+
+    <tspan x="350" y="230" fill="#616e7f">. </tspan>
+    <tspan fill="#ef97e4">Hobbies</tspan>
+    <tspan fill="#616e7f"> ........... </tspan>
+    <tspan fill="#dde4eb">Web Dev, Designer, Content Creator</tspan>
+      
+     <!-- Contact -->
     <tspan x="350" y="250">Thanks for visiting,let's connect!</tspan>
     <tspan x="350" y="260">———————————————————————————————————————————————</tspan>
 
