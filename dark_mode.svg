@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
      width="985" height="530"
      viewBox="0 0 985 530"
      font-family="monospace"
@@ -8,36 +9,20 @@
   <!-- Background -->
   <rect width="100%" height="100%" rx="15" fill="#161b22"/>
 
-  <!-- ASCII ART -->
+  <!-- ASCII KEY -->
   <text x="15" y="30" fill="#c9d1d9">
-    <tspan x="15" y="30">               :....               </tspan>
-    <tspan x="15" y="50">           :.. ....   .            </tspan>
-    <tspan x="15" y="70">         .::. .:..      .          </tspan>
-    <tspan x="15" y="90">         ::. .-==:..               </tspan>
-    <tspan x="15" y="110">       :::..=####**+-.    ..       </tspan>
-    <tspan x="15" y="130">       ::..-##%##**+=:     ..      </tspan>
-    <tspan x="15" y="150">      ::.. -*+-+#*=:--.    ..      </tspan>
-    <tspan x="15" y="170">      ::..:*+--*#=--::.     ..     </tspan>
-    <tspan x="15" y="190">     :... -######=-+++-.     ..    </tspan>
-    <tspan x="15" y="210">     .:.  :##*##*=-+*+=.      .    </tspan>
-    <tspan x="15" y="230">     :...  *#***+-::=+-.      .    </tspan>
-    <tspan x="15" y="250">      :..   +###*++==-.       .    </tspan>
-    <tspan x="15" y="270">      .:.   .=*#**=-:.         .   </tspan>
-    <tspan x="15" y="290">     ....   .+*##*=-=:   .         </tspan>
-    <tspan x="15" y="310">    .::... .-*###*++=:           . </tspan>
-    <tspan x="15" y="330">    . ....-=+*##***+=:           . </tspan>
-    <tspan x="15" y="350">::....  .=++**#**##+=.            .</tspan>
-    <tspan x="15" y="370">............-====+++=..            </tspan>
-    <tspan x="15" y="390">...  .. ...........           . .. </tspan>
-    <tspan x="15" y="410">:. . .. .............        . ..  </tspan>
-    <tspan x="15" y="430">.. .  :  .............      . ..   </tspan>
-    <tspan x="15" y="450">.   . :. .............      . . .  </tspan>
-    <tspan x="15" y="470">.    ... ...... .........  ..    ..</tspan>
-    <tspan x="15" y="490">..   ..: .....   .......   .    .. </tspan>
-    <tspan x="15" y="510">..   ..:......    ......   .       </tspan>
+    <tspan x="15" y="30">⠀⠀⠀⢀⡴⠲⣄⠀⠀⢀⡶⠲⡄⠀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="50">⣀⣀⣀⣾⠁⠀⠹⠿⠟⠟⠀⠀⠙⣛⣉⡻⠿⠋⣿⣷⢦⣄⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="70">⠭⠭⣽⠇⠀⠶⠀⢴⣦⠀⠶⠆⠸⠯⠭⠄⠀⠀⠀⠀⠀⠙⢧⡀⠀⢀⣤⣤</tspan>
+    <tspan x="15" y="90">⠀⠀⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⣤⣾⣻⡟</tspan>
+    <tspan x="15" y="110">⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣧⠽⠋⠀</tspan>
+    <tspan x="15" y="130">⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="150">⠀⠀⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="170">⠀⠀⠈⠳⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠟⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="190">⠀⠀⠀⠀⠉⠿⠟⠛⠛⠻⠾⠛⠛⠛⠛⠻⠟⠛⠛⠻⠾⠃⠀⠀⠀⠀⠀⠀</tspan>
   </text>
 
-  <!-- RIGHT PANEL -->
+  <!-- RIGHT INFO PANEL -->
   <text x="390" y="30" fill="#c9d1d9">
 
     <!-- Header -->
@@ -86,35 +71,36 @@
     <tspan fill="#616e7f"> ........... </tspan>
     <tspan fill="#dde4eb">English, Bengali, Hindi</tspan>
 
-    <!-- Hobbies -->
-    <tspan x="390" y="240" fill="#616e7f">. </tspan>
-    <tspan fill="#ef97e4">Hobbies.Software</tspan>
-    <tspan fill="#616e7f"> .... </tspan>
-    <tspan fill="#dde4eb">Web Dev, Designer, Content Creator</tspan>
-
-    <tspan x="390" y="260" fill="#616e7f">. </tspan>
-    <tspan fill="#ef97e4">Hobbies.Hardware</tspan>
-    <tspan fill="#616e7f"> ..... </tspan>
-    <tspan fill="#dde4eb">System Customization</tspan>
-
     <!-- Contact -->
-    <tspan x="390" y="300">- Contact</tspan>
-    <tspan x="390" y="310">———————————————————————————————————————————————</tspan>
+    <tspan x="390" y="250">- Contact</tspan>
+    <tspan x="390" y="260">———————————————————————————————————————————————</tspan>
 
-    <tspan x="390" y="330" fill="#616e7f">. </tspan>
-    <tspan fill="#ef97e4">Email.Personal</tspan>
-    <tspan fill="#616e7f"> .... </tspan>
+    <!-- Email -->
+    <tspan x="390" y="280" fill="#616e7f">. </tspan>
+    <tspan fill="#ef97e4">Email</tspan>
+    <tspan fill="#616e7f"> ................. </tspan>
     <tspan fill="#dde4eb">priyaisamukherjee524@gmail.com</tspan>
 
-    <tspan x="390" y="360" fill="#616e7f">. </tspan>
-    <tspan fill="#ef97e4">LinkedIn</tspan>
-    <tspan fill="#616e7f"> ................. </tspan>
-    <tspan fill="#dde4eb">Priyanka Mukherjee</tspan>
-
-    <tspan x="390" y="390" fill="#616e7f">. </tspan>
-    <tspan fill="#ef97e4">Twitter</tspan>
-    <tspan fill="#616e7f"> ................... </tspan>
-    <tspan fill="#dde4eb">OGPriyanka</tspan>
-
   </text>
+
+  <!-- LinkedIn (Clickable) -->
+  <a xlink:href="https://www.linkedin.com/in/priyanka-mukherjee-connect/" target="_blank">
+    <text x="390" y="310" fill="#dde4eb">
+      <tspan fill="#616e7f">. </tspan>
+      <tspan fill="#ef97e4">LinkedIn</tspan>
+      <tspan fill="#616e7f"> ................. </tspan>
+      <tspan fill="#dde4eb">Priyanka Mukherjee</tspan>
+    </text>
+  </a>
+
+  <!-- Twitter / X (Clickable) -->
+  <a xlink:href="https://x.com/OGPriyanka" target="_blank">
+    <text x="390" y="340" fill="#dde4eb">
+      <tspan fill="#616e7f">. </tspan>
+      <tspan fill="#ef97e4">Twitter</tspan>
+      <tspan fill="#616e7f"> ................... </tspan>
+      <tspan fill="#dde4eb">@OGPriyanka</tspan>
+    </text>
+  </a>
+
 </svg>
