@@ -31,27 +31,13 @@
 ### Thanks for visiting,let's connect! 
 <div>
   <a href="https://www.linkedin.com/in/priyanka-mukherjee-connect/">
-        <img src="./assets/icon.jpg" alt="LinkedIn" width="39" height="39"/>
+        <img src="./assets/linkedin.jpg" alt="LinkedIn" width="39" height="39"/>
     </a>
     <a href="https://x.com/OGPriyanka">
-        <img src="./assets/twitter.jpg" alt="Twitter" width="35" height="35"/>
+        <img src="./assets/x.jpg" alt="Twitter" width="35" height="35"/>
     </a>
 </div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer" alt="footer"/>
 
-<!--
-**CodeWithPriyankaMukherjee/CodeWithPriyankaMukherjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
