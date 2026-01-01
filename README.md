@@ -29,18 +29,5 @@
        src="https://raw.githubusercontent.com/CodeWithPriyankaMukherjee/CodeWithPriyankaMukherjee/main/light_mode.svg">
 </picture>
 
-
-
-### Thanks for visiting,let's connect! 
-<div>
-  <a href="https://www.linkedin.com/in/priyanka-mukherjee-connect/">
-        <img src="./assets/linkedin.jpg" alt="LinkedIn" width="39" height="39"/>
-    </a>
-    <a href="https://x.com/OGPriyanka">
-        <img src="./assets/x.jpg" alt="Twitter" width="35" height="35"/>
-    </a>
-</div>
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer" alt="footer"/>
 
