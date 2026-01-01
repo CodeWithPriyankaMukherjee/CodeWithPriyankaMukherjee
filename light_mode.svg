@@ -1,64 +1,110 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
-<style>
-@font-face {
-src: local('Consolas'), local('Consolas Bold');
-font-family: 'ConsolasFallback';
-font-display: swap;
--webkit-size-adjust: 109%;
-size-adjust: 109%;
-}
-.key {fill: #c115aaff;}
-.value {fill: #320225ff;}
-.addColor {fill: #87197aff;}
-.delColor {fill: rgba(47, 17, 38, 1);}
-.cc {fill: #c2cfde;}
-text, tspan {white-space: pre;}
-</style>
-<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30">               :....               </tspan>
-    <tspan x="15" y="50">           :.. ....   .            </tspan>
-    <tspan x="15" y="70">         .::. .:..      .          </tspan>
-    <tspan x="15" y="90">         ::. .-==:..               </tspan>
-    <tspan x="15" y="110">       :::..=####**+-.    ..       </tspan>
-    <tspan x="15" y="130">       ::..-##%##**+=:     ..      </tspan>
-    <tspan x="15" y="150">      ::.. -*+-+#*=:--.    ..      </tspan>
-    <tspan x="15" y="170">      ::..:*+--*#=--::.     ..     </tspan>
-    <tspan x="15" y="190">     :... -######=-+++-.     ..    </tspan>
-    <tspan x="15" y="210">     .:.  :##*##*=-+*+=.      .    </tspan>
-    <tspan x="15" y="230">     :...  *#***+-::=+-.      .    </tspan>
-    <tspan x="15" y="250">      :..   +###*++==-.       .    </tspan>
-    <tspan x="15" y="270">      .:.   .=*#**=-:.         .   </tspan>
-    <tspan x="15" y="290">     ....   .+*##*=-=:   .         </tspan>
-    <tspan x="15" y="310">    .::... .-*###*++=:           . </tspan>
-    <tspan x="15" y="330">    . ....-=+*##***+=:           . </tspan>
-    <tspan x="15" y="350">::....  .=++**#**##+=.            .</tspan>
-    <tspan x="15" y="370">............-====+++=..            </tspan>
-    <tspan x="15" y="390">...  .. ...........           . .. </tspan>
-    <tspan x="15" y="410">:. . .. .............        . ..  </tspan>
-    <tspan x="15" y="430">.. .  :  .............      . ..   </tspan>
-    <tspan x="15" y="450">.   . :. .............      . . .  </tspan>
-    <tspan x="15" y="470">.    ... ...... .........  ..    ..</tspan>
-    <tspan x="15" y="490">..   ..: .....   .......   .    .. </tspan>
-    <tspan x="15" y="510">..   ..:......    ......   .       </tspan>
-    <tspan x="15" y="530">      ::.....     .......    :+:..  </tspan>
-</text>
-<text x="390" y="30" fill="#24292f">
-<tspan x="390" y="30">CodeWithPriyankaMukherjee</tspan> ————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">>Windows 10 (Dev), Linux(test)</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Sleeping</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Localhost· Undergrad</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Sophomore · Computer Science Student</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VS Code 1.96.0 (Main)</tspan>
-<tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">C, Python (ML), HTML, CSS, JS</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">React, Node.js </tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">English, Bengali, Hindi</tspan>
-<tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .</tspan><tspan class="value">Web Dev, Designer, Content Creator</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">System customization</tspan>
-<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">priyaisamukherjee524@gmail.com</tspan>
-<tspan x="390" y="360" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Priyanka Mukherjee</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Twitter</tspan>:<tspan class="cc"> ..................</tspan><tspan class="value">OGPriyanka</tspan>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="985" height="450"
+     viewBox="0 0 985 450"
+     font-family="monospace"
+     font-size="16">
+
+  <!-- Background -->
+  <rect width="100%" height="100%" rx="15" fill="#ffffff"/>
+
+  <!-- ASCII KEY -->
+  <text x="15" y="30" fill="#1f2328">
+    <tspan x="15" y="30">⠀⠀⠀⢀⡴⠲⣄⠀⠀⢀⡶⠲⡄⠀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="50">⣀⣀⣀⣾⠁⠀⠹⠿⠟⠟⠀⠀⠙⣛⣉⡻⠿⠋⣿⣷⢦⣄⠀⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="70">⠭⠭⣽⠇⠀⠶⠀⢴⣦⠀⠶⠆⠸⠯⠭⠄⠀⠀⠀⠀⠀⠙⢧⡀⠀⢀⣤⣤</tspan>
+    <tspan x="15" y="90">⠀⠀⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⣤⣾⣻⡟</tspan>
+    <tspan x="15" y="110">⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣧⠽⠋⠀</tspan>
+    <tspan x="15" y="130">⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="150">⠀⠀⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="170">⠀⠀⠈⠳⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠟⠀⠀⠀⠀⠀</tspan>
+    <tspan x="15" y="190">⠀⠀⠀⠀⠉⠿⠟⠛⠛⠻⠾⠛⠛⠛⠛⠻⠟⠛⠛⠻⠾⠃⠀⠀⠀⠀⠀⠀</tspan>
+  </text>
+
+  <!-- RIGHT INFO PANEL -->
+  <text x="350" y="30" fill="#1f2328">
+
+    <!-- Header -->
+    <tspan x="350" y="30">About Me</tspan>
+    <tspan x="350" y="40">———————————————————————————————————————————————</tspan>
+
+    <!-- System -->
+    <tspan x="350" y="60" fill="#57606a">. </tspan>
+    <tspan fill="#a855f7">OS</tspan>
+    <tspan fill="#57606a"> ....................... </tspan>
+    <tspan fill="#24292f">Windows 10 (Dev), Linux (test)</tspan>
+
+    <tspan x="350" y="80" fill="#57606a">. </tspan>
+    <tspan fill="#a855f7">Status</tspan>
+    <tspan fill="#57606a"> ................... </tspan>
+    <tspan fill="#24292f">Sleeping</tspan>
+
+    <tspan x="350" y="100" fill="#57606a">. </tspan>
+    <tspan fill="#a855f7">Host</tspan>
+    <tspan fill="#57606a"> ....................... </tspan>
+    <tspan fill="#24292f">Localhost · Undergrad</tspan>
+
+    <tspan x="350" y="120" fill="#57606a">. </tspan>
+    <tspan fill="#a855f7">Kernel</tspan>
+    <tspan fill="#57606a"> ....... </tspan>
+    <tspan fill="#24292f">Sophomore · Computer Science Student</tspan>
+
+    <tspan x="350" y="140" fill="#57606a">. </tspan>
+    <tspan fill="#a855f7">IDE</tspan>
+    <tspan fill="#57606a"> ...................... </tspan>
+    <tspan fill="#24292f">VS Code 1.96.0</tspan>
+
+    <tspan x="350" y="170" fill="#57606a">. </tspan>
+    <tspan fill="#a855f7">Languages.Programming</tspan>
+    <tspan fill="#57606a"> .... </tspan>
+    <tspan fill="#24292f">C, Python (ML), HTML, CSS, JS</tspan>
+
+    <tspan x="350" y="190" fill="#57606a">. </tspan>
+    <tspan fill="#a855f7">Languages.Frameworks</tspan>
+    <tspan fill="#57606a"> ..... </tspan>
+    <tspan fill="#24292f">React, Node.js</tspan>
+
+    <tspan x="350" y="210" fill="#57606a">. </tspan>
+    <tspan fill="#a855f7">Languages.Real</tspan>
+    <tspan fill="#57606a"> ........... </tspan>
+    <tspan fill="#24292f">English, Bengali, Hindi</tspan>
+
+    <tspan x="350" y="230" fill="#57606a">. </tspan>
+    <tspan fill="#a855f7">Hobbies</tspan>
+    <tspan fill="#57606a"> ........... </tspan>
+    <tspan fill="#24292f">Web Dev, Designer, Content Creator</tspan>
+
+    <!-- Footer -->
+    <tspan x="350" y="260">Thanks for visiting, let’s connect!</tspan>
+    <tspan x="350" y="270">———————————————————————————————————————————————</tspan>
+
+    <!-- Email -->
+    <tspan x="350" y="290" fill="#57606a">. </tspan>
+    <tspan fill="#a855f7">Email</tspan>
+    <tspan fill="#57606a"> ................. </tspan>
+    <tspan fill="#24292f">priyaisamukherjee524@gmail.com</tspan>
+
+  </text>
+
+  <!-- LinkedIn -->
+  <a xlink:href="https://www.linkedin.com/in/priyanka-mukherjee-connect/" target="_blank">
+    <text x="350" y="310" fill="#24292f">
+      <tspan fill="#57606a">. </tspan>
+      <tspan fill="#a855f7">LinkedIn</tspan>
+      <tspan fill="#57606a"> ................. </tspan>
+      <tspan fill="#24292f">Priyanka Mukherjee</tspan>
+    </text>
+  </a>
+
+  <!-- Twitter / X -->
+  <a xlink:href="https://x.com/OGPriyanka" target="_blank">
+    <text x="350" y="330" fill="#24292f">
+      <tspan fill="#57606a">. </tspan>
+      <tspan fill="#a855f7">Twitter</tspan>
+      <tspan fill="#57606a"> ................... </tspan>
+      <tspan fill="#24292f">@OGPriyanka</tspan>
+    </text>
+  </a>
+
+</svg>
