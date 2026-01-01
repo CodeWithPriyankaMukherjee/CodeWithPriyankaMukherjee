@@ -76,11 +76,11 @@
     <tspan fill="#dde4eb">Web Dev, Designer, Content Creator</tspan>
       
      <!-- Contact -->
-    <tspan x="350" y="250">Thanks for visiting,let's connect!</tspan>
-    <tspan x="350" y="260">———————————————————————————————————————————————</tspan>
+    <tspan x="350" y="260">Thanks for visiting,let's connect!</tspan>
+    <tspan x="350" y="270">———————————————————————————————————————————————</tspan>
 
     <!-- Email -->
-    <tspan x="350" y="280" fill="#616e7f">. </tspan>
+    <tspan x="350" y="290" fill="#616e7f">. </tspan>
     <tspan fill="#ef97e4">Email</tspan>
     <tspan fill="#616e7f"> ................. </tspan>
     <tspan fill="#dde4eb">priyaisamukherjee524@gmail.com</tspan>
@@ -89,7 +89,7 @@
 
   <!-- LinkedIn (Clickable) -->
   <a xlink:href="https://www.linkedin.com/in/priyanka-mukherjee-connect/" target="_blank">
-    <text x="350" y="300" fill="#dde4eb">
+    <text x="350" y="310" fill="#dde4eb">
       <tspan fill="#616e7f">. </tspan>
       <tspan fill="#ef97e4">LinkedIn</tspan>
       <tspan fill="#616e7f"> ................. </tspan>
@@ -99,7 +99,7 @@
 
   <!-- Twitter / X (Clickable) -->
   <a xlink:href="https://x.com/OGPriyanka" target="_blank">
-    <text x="350" y="320" fill="#dde4eb">
+    <text x="350" y="330" fill="#dde4eb">
       <tspan fill="#616e7f">. </tspan>
       <tspan fill="#ef97e4">Twitter</tspan>
       <tspan fill="#616e7f"> ................... </tspan>
